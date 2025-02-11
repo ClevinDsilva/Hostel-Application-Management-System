@@ -1,0 +1,13 @@
+
+Name:clevin
+Course:MBA
+Address:
+GenderMaleSakleshpur
+Email:clevi@gmail.com
+Mobile NO9380205512
+AadharNO:123412341234
+Father name:Mark
+Mother Name:Jessy
+College:Doctort,2000000.0,Karnataka,Bangalore,null
+Hostel:null
+-------------------------------

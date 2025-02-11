@@ -1,0 +1,12 @@
+Name:Aarol
+Course:MCA
+Address:
+GenderMalePadil
+Email:aarol@gmail.com
+Mobile NO9551280203
+AadharNO:123412341234
+Father name:Roy
+Mother Name:Pavlin
+College:Farmar,5000.0,Karnataka,DAKSHINA KANNADA,St Aloysius College (Deemed to be university)
+Hostel:Hostel6
+-------------------------------
